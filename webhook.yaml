@@ -62,4 +62,4 @@ spec:
       bindings:
         - ref: <git-triggerbinding>
       template:
-        name: reverseword-build-triggertemplate
+        ref: reverseword-build-triggertemplate

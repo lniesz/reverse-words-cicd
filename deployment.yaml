@@ -4,6 +4,7 @@ metadata:
   labels:
     app: reverse-words
   name: reverse-words
+  namespace: reverse-words-stage
 spec:
   template:
     spec:

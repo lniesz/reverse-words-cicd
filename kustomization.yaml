@@ -9,4 +9,3 @@ resources:
 #- ingress.yaml
 patchesStrategicMerge:
 - deployment.yaml
-namespace: reverse-words-stage

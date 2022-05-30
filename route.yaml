@@ -2,7 +2,6 @@ apiVersion: route.openshift.io/v1
 kind: Route
 metadata:
   name: reverse-words
-  namespace: reverse-words-stage
 spec:
   host: reversewords.apps.ocp4.localdomain
   port:

@@ -9,3 +9,4 @@ resources:
 - route.yaml
 patchesStrategicMerge:
 - deployment.yaml
+namespace: reverse-words-production
